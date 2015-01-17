@@ -1,3 +1,7 @@
+/*
+ * Copyright 2015 Heyang Zhou
+*/
+
 #include <iostream>
 #include <string>
 #include <cstdio>

@@ -1,0 +1,1 @@
+# MPlatform_InitConfig_Android
